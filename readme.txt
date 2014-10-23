@@ -32,7 +32,7 @@ Easily create all different kinds of buttons for your WordPress site. Insert but
 
 **Insert Buttons Anywhere in your site**
 
-Basically buttons can be inserted anywhere in your site:
+Basically buttons can be inserted anywhere in your site
 
 * Page/post WYSIWYG editor by using the buttion in the editor
 * In sidebars by using the OTW Shortcode Widget
