@@ -14,6 +14,7 @@ Create buttons. Nice and easy interface. Insert anywhere in your site - page/pos
 
 Easily create all different kinds of buttons for your WordPress site. Insert buttons anywhere in your site - page/post editor, sidebars, template files. No coding is required. It is all done in a nice and easy interface.
 
+
 **Button Options**
 
 * Button Title 
@@ -32,11 +33,12 @@ Easily create all different kinds of buttons for your WordPress site. Insert but
 
 **Insert Buttons Anywhere in your site**
 
-Basically buttons can be inserted anywhere in your site
+Basically buttons can be inserted anywhere in your site:
 
 * Page/post WYSIWYG editor by using the buttion in the editor
 * In sidebars by using the OTW Shortcode Widget
 * In template files by using the button's shortcode and WP do_shortcode function
+
 
 **Custom styling**
 
