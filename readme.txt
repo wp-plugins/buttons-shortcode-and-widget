@@ -12,7 +12,7 @@ Create buttons. Nice and easy interface. Insert anywhere in your site - page/pos
 
 == Description ==
 
-Easily create all different kinds of buttons for your WordPress site. Insert buttons anywhere in your site - page/post editor, sidebars, template files. No coding is required. It is all done in a nice and easy interface.
+Easily create all different kinds of buttons for your WordPress site. Insert buttons anywhere in your site - page / post editor, sidebars, template files. No coding is required. It is all done in a nice and easy interface.
 
 **Button Options**
 
