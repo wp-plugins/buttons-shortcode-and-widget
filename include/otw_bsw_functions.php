@@ -91,7 +91,16 @@ if( !function_exists( 'otw_bsw_enqueue_admin_styles' ) ){
 		
 		global $otw_bsw_plugin_url, $otw_bsw_css_version;
 		
-		wp_enqueue_style( 'otw_bsw_admin', $otw_bsw_plugin_url.'/css/otw_bsw_admin.css', array( 'thickbox' ), $otw_bsw_css_version );
+		$currentScreen = get_current_screen();
+		
+		switch( $currentScreen->id ){
+			
+			case 'widgets':
+			case 'page':
+			case 'post':
+					wp_enqueue_style( 'otw_bsw_admin', $otw_bsw_plugin_url.'/css/otw_bsw_admin.css', array( 'thickbox' ), $otw_bsw_css_version );
+				break;
+		}
 	}
 }
 

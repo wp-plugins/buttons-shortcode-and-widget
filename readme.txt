@@ -3,8 +3,8 @@ Contributors: OTWthemes
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQH6CMTR42KS2
 Tags: buttons, shortcode, widgets, button, WYSIWYG editor, widget, sidebar
 Requires at least: 3.6
-Tested up to: 4.0
-Stable tag: 1.4
+Tested up to: 4.1
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,6 @@ Create buttons. Nice and easy interface. Insert anywhere in your site - page/pos
 == Description ==
 
 Easily create all different kinds of buttons for your WordPress site. Insert buttons anywhere in your site - page/post editor, sidebars, template files. No coding is required. It is all done in a nice and easy interface.
-
 
 **Button Options**
 
@@ -33,12 +32,11 @@ Easily create all different kinds of buttons for your WordPress site. Insert but
 
 **Insert Buttons Anywhere in your site**
 
-Basically buttons can be inserted anywhere in your site:
+Basically buttons can be inserted anywhere in your site
 
 * Page/post WYSIWYG editor by using the buttion in the editor
 * In sidebars by using the OTW Shortcode Widget
 * In template files by using the button's shortcode and WP do_shortcode function
-
 
 **Custom styling**
 
@@ -87,6 +85,10 @@ Please refer to [online documentation page](http://otwthemes.com/online-document
 4. Front-end
 
 == Changelog ==
+
+= 1.5 =
+
+* Updated: include admin css only on post, page and widgets page
 
 = 1.4 =
  
